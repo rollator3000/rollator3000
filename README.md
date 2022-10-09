@@ -1,6 +1,4 @@
-# Welcome to my profile 👋 
-## I'm Frederik - a passionate data scientist from Berlin, Germany
-
+## Welcome 👋 - I'm Frederik - a passionate data scientist from Berlin, Germany
 
 - 👋 I'm Frederik, 29 years old and graduated in 2020 with a Master’s degree in Biostatistics from LMU
 - 🏢 Since then, I have been working as a data scientist in a app start-up/ construction company, where I had worked as a student trainee already
