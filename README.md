@@ -2,7 +2,7 @@
 ## I'm Frederik - a passionate data scientist from Berlin, Germany
 
 - :school: Graduated in 2020 with a Master’s degree in Biostatistics from LMU
-- :office: Working as a data scientist in a app start-up/ construction company
+- :office: Working as a data scientist w focus on machine-learning in an insurance-consulting company
 - 👀 Fascinated by the broad applications of data science in real-life
 - :star: Always eager to learn new things & extend my skill-set
 - 💞️ Big fan of of open-source software and the community around it
